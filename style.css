@@ -1,0 +1,12 @@
+.header {
+    text-align: center;
+    font-family: Playfair Display;
+    font-weight: 900;
+    margin-top: 59px;
+}
+
+h1 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
